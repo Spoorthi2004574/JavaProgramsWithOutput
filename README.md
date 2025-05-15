@@ -1,3 +1,3 @@
 # JavaProgramsWithOutput
 A collection of Java programs with their outputs
-- [ListOperation_o/p](./ListOperations_output.png)
+- [ListOperation_o/p](./ListOperation_output.png)
